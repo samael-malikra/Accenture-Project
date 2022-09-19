@@ -21,6 +21,7 @@ right:20em;
 top: 21px;
 color: #666666;
 font-size: 24px;
+text-decoration: none;
 }
 
 .navbar-explore{
@@ -31,7 +32,7 @@ font-size: 24px;
   top: 21px;
   color: #666666;
 font-size: 24px;
-
+text-decoration: none;
 }
 
 .navbar-chat{ 
@@ -42,6 +43,7 @@ right: 9.4em;
 top: 21px;
 color: #666666;
 font-size: 24px;
+text-decoration: none;
 }
 
 .navbar-setting{
@@ -52,6 +54,7 @@ right: 5.4em;
 top: 21px;
 color: #666666;
 font-size: 24px;
+text-decoration: none;
 
 }
 
@@ -63,5 +66,6 @@ right: 0.7em;
 top: 21px;
 color: #666666;
 font-size: 24px;
+text-decoration: none;
 
 }
